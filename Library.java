@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 class Library {
     public static void main(String[] args) {
         final String name = "Library v0.1";
